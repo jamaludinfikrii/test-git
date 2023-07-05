@@ -3,6 +3,6 @@
 
 // cara save (commit)
 /**
- * 1. push ke staging "git add"
- * 2. save
+ * 1. push ke staging "git add namafile"
+ * 2. save "git commit -m "notes""
  */
