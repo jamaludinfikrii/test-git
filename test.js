@@ -6,3 +6,9 @@
  * 1. push ke staging "git add namafile"
  * 2. save "git commit -m "notes""
  */
+
+/**
+ * others
+ * 1. git status (buat check status)
+ * 2. git log --oneline (buat liat log dari commit)
+ */
